@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 15/11/2018, 12:02:23 AM
-    Author     : anthony
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
